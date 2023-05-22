@@ -34,6 +34,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-cloudflare": "^2.2.4",
 		"svelte-markdown": "^0.2.3"
 	}
 }
